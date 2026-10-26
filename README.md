@@ -1,4 +1,4 @@
-# Hello there👋😏
+# Hello there👋
 I’m Oluwasegun (Israel) Odunaiya 
 
 Software Engineer focused on automation, cloud, and applied AI. I enjoy the process of investigating problems, to making planning, designing systems and building practical software products I can be pround of like a father🥹.
